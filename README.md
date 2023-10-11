@@ -1,4 +1,4 @@
-# iRevolution_A_Dta-driven_Exploration_of_Apples_iphone_Impact_in_India
+# iRevolution_A_Data-driven_Exploration_of_Apples_iphone_Impact_in_India
 
 dashboard https://public.tableau.com/views/dashboad1_16955467587160/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
 
